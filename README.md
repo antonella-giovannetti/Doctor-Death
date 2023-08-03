@@ -184,6 +184,43 @@ Modification des variables 'Shipman' et 'Comparison' en type pourcentage.
 ### Analyse et visualisation 
 -> [Lien de la Data Viz](./doctor-death_visualisation.pdf)
 
-Pour la visualisation des données des victimes du docteur Shipman, nous commençons par l'affichage 
+#### Informations sur nos données
+Pour la visualisation des données des victimes du docteur Shipman, nous commençons par l'affichage de nos données sous forme de tableau, pour visualiser nos variables et nos observations.
+
+#### Données concernant l'âge 
+La moyenne d'âge des victimes et de 76 ans. Sur notre histogramme du nombre de décès par tranches d'âge, nous pouvons voir que l'âge des victimes est entre 40 et 95 ans et que la plupart des victimes ont entre 70 et 90 ans.
+
+#### Données concernant le genre
+Sur notre graphique circulaire, on aperçoit que 80% des victimes sont des femmes. 
+
+Concernant la distribution des genres par apport à l'âge, on aperçoit que le nombre de victimes hommes ou femmes est toujours concentré sur une tranche de 70 à 90 ans. Les victimes les plus jeunes sont des hommes avec trois hommes dans la tranche 40 à 49 ans. 
+
+Pour la décision rendue, tous les hommes et 163 femmes ont bien été déclarés en tant que meurtre illégal contre seulement 15 femmes qui ont été reconnues victimes du docteur Shipman. Le docteur fut reconnu coupable de 15 assassinats et condamné 15 fois à la prison à vie.
+
+Durant ces années de meurtres, on ne voit pas trop de différences entre les hommes et les femmes.
+
+#### Données concernant le lieu et la date du décès
+Nous pouvons voir que sur ces graphiques linéaires, que les meurtres du docteur se sont produit entre 1975 et 1998. Il y a une concentration de décès de 1984 à 1989 et de 1992 à 1998. 1997 ont été l'année avec le plus de décès. 
+
+Pour la répartition du nombre de décès par apport au mois, on peut voir que c'est assez régulier avec moins de meurtres au moins d'août et au mois d'octobre. 
+
+Les lieux des décès des victimes se sont produits principalement chez eux avec 204 victimes. 
+
+#### Données concernant la décision rendu
+Seulement 7% des personnes décédés ont été déclaré victimes du docteur Shipman. 
+
+Concernant les tranches d'âge par apport à la décision rendu on aperçoit rien de particulier avec des victimes d'âge différents. 
+
+#### Information sur les données de comparaison 
+
+Voici le tableau des données concernant les données en pourcentage de l'heure à laquelle les patients d'Harold Shipman sont décédés, comparée à l'heure à laquelle les patients d'autres médecins généralistes locaux sont décédés.
+
+#### Données de comparaison 
+
+Sur les données de comparaison des heures de décès des patients entre le docteur Shipman et d'autre médecins généralistes, on peut apercevoir une concentration de décès chez le docteur Shipman entre 13h et 15h avec 13,88% des décès à 14h. Alors que pour les autres médecins généralistes, on peut voir une régularité des heures de décès.
 
 ### Conclusion à la problématique 
+
+Harold Shipman à assasinées 215 personnes, avec une majorité de femmes et de personnes agées de 70 à 90 ans. Les victimes sont décédés entre 1975 et 1998 et pour la plupart chez elles. 
+Le docteur a été condamné pour seulement 15 meurtres sur 215. 
+
