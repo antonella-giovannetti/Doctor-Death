@@ -68,7 +68,7 @@ Voici les types de visualisations dans Power BI :
 
 #### Avantages et inconvénients
 
-* Avantages
+##### Avantages
 
 1. Abordabilité :
 L’un des plus grands avantages de l’utilisation de Power BI pour l’analyse et la visualisation des données est qu’il est assez peu coûteux. Power BI Desktop est disponible gratuitement. Il est accessible en le téléchargant sur une machine pour créer des rapports et des tableaux de bord. Il existe une solution disponible Power BI Cloud pour 9,99 $ par utilisateur et par mois pour publier des rapports dans le cloud. 
@@ -85,7 +85,7 @@ Un autre avantage important de l’utilisation de Power BI comme outil d’analy
 5. Power BI intégré :
 Un autre avantage de Power BI est Power BI Embedded. Un développeur d’applications peut utiliser cette solution pour intégrer ou inclure des rapports et des fonctionnalités Power BI dans des applications Web ou autres. Nous pouvons intégrer des visualisations et des rapports Power BI dans des e-mails ou des pages Web pour élargir la portée de l’outil.
 
-* Inconvénients 
+##### Inconvénients 
 
 1. Relations entre les tables :
 Power BI excelle dans la gestion des relations de table simples dans un modèle de données. Toutefois, s’il existe des interactions complexes entre les données, telles que plusieurs liens entre des tables, Power BI peut ne pas être en mesure de les gérer correctement.
@@ -182,6 +182,8 @@ Modification du type de la variable 'Hour' en type heure.
 Modification des variables 'Shipman' et 'Comparison' en type pourcentage.
 
 ### Analyse et visualisation 
-[Link](./doctor-death_visualisation.pdf)
+-> [Lien de la Data Viz](./doctor-death_visualisation.pdf)
+
+Pour la visualisation des données des victimes du docteur Shipman, nous commençons par l'affichage 
 
 ### Conclusion à la problématique 
